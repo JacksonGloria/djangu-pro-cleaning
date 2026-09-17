@@ -1498,3 +1498,39 @@ nav a:hover {
     display: flex;
     align-items: center;;
 }
+
+/* Google Reviews Section */
+.reviews-section {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.reviews-section h2 {
+    margin-bottom: 15px;
+}
+
+.reviews-section p {
+    margin-bottom: 20px;
+}
+
+.reviews-section img {
+    display: block;
+    margin: 20px auto;
+    width: 220px;
+    height: auto;
+}
+
+.google-review-button {
+    display: inline-block;
+    padding: 12px 24px;
+    margin: 10px 0 20px;
+    background-color: #0b6b57;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.google-review-button:hover {
+    opacity: 0.9;
+}
