@@ -252,7 +252,7 @@ nav a:hover {
     content: "";
     position: absolute;
     inset: 0;
-    background: rgba(0, 70, 60, 0.60);
+    background: rgba(0, 0, 0, 0.45);
     z-index: 1;
 }
 
