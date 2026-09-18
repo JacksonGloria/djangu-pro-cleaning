@@ -227,7 +227,7 @@ nav a:hover {
 /* Mobile */
 @media (max-width: 768px) {
     .hero {
-        min-height: 600px;
+        min-height: 540px;
     }
 
     .hero h1 {
