@@ -770,7 +770,8 @@ nav a:hover {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 8px 12px;
+    gap: 6px 10px;
+    font-size: 16px;
 }
 
     .hero h1 {
